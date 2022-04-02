@@ -1,7 +1,7 @@
 AWHM
 ====
 
-Execute WHM and Cpanel operation with  api by PHP
+Execute WHM and Cpanel operation with  API by PHP
 
 
 Installation
