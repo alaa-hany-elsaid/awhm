@@ -14,12 +14,9 @@
             "email": "elboray.alaa1@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^7.0",
       "ext-json": "*"
     },
-    "require-dev": {
-        "phpunit/phpunit": "^9"
-    }
+
 }
